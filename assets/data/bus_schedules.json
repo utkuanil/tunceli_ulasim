@@ -1,0 +1,491 @@
+{
+  "routes": [
+    {
+      "id": "ataturk_universite_aktuluk",
+      "name": "Atatürk Mah. - Üniversite - Aktuluk Mah.",
+      "departurePoint": "Moğultay Mah.",
+      "weekday": [
+        {
+          "time": "06:45",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "07:00",
+          "destination": "Atatürk Mah. - Aktuluk TOKİ"
+        },
+        {
+          "time": "07:15",
+          "destination": "Atatürk Mah. - Üniversite Kampüsü ve 100.Yıl"
+        },
+        {
+          "time": "07:30",
+          "destination": "Atatürk Mah. - Üniversite Kampüsü ve Çiçekli Yol Ayrımı"
+        },
+        {
+          "time": "08:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "08:30",
+          "destination": "Atatürk Mah. - Üniversite Kampüsü ve Çiçekli Yol Ayrımı"
+        },
+        {
+          "time": "09:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "09:15",
+          "destination": "Atatürk Mah. - Üniversite Kampüsü ve 100.Yıl"
+        },
+        {
+          "time": "09:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj - TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu"
+        },
+        {
+          "time": "10:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "10:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj - Bardaktepe"
+        },
+        {
+          "time": "11:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "11:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj - TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu"
+        },
+        {
+          "time": "12:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "13:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "13:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj - TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu"
+        },
+        {
+          "time": "14:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "14:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj ve Çiçekli Yol Ayrımı"
+        },
+        {
+          "time": "15:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "15:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj - TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu"
+        },
+        {
+          "time": "16:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "16:30",
+          "destination": "Atatürk Mah. - Üniversite İçi - Bardaktepe"
+        },
+        {
+          "time": "17:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "17:30",
+          "destination": "Atatürk Mah. - Üniversite İçi Refüj - TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu"
+        }
+      ],
+      "weekend": [
+        {
+          "time": "08:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "08:30",
+          "destination": "Atatürk Mah. - Üniversite Nizamiye Kapısı - Aktuluk Mah. - TOKİ - Bardaktepe"
+        },
+        {
+          "time": "09:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "09:30",
+          "destination": "Atatürk Mah. - 4. Komando Kavşağı"
+        },
+        {
+          "time": "10:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "10:30",
+          "destination": "Atatürk Mah. - 4. Komando Kavşağı"
+        },
+        {
+          "time": "11:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "11:30",
+          "destination": "Atatürk Mah. - Üniversite Nizamiye Kapısı - Aktuluk Mah. TOKİ"
+        },
+        {
+          "time": "12:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "13:30",
+          "destination": "Atatürk Mah. - 4. Komando Kavşağı"
+        },
+        {
+          "time": "14:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "14:30",
+          "destination": "Atatürk Mah. - Üniversite Nizamiye Kapısı - Aktuluk Mah. TOKİ"
+        },
+        {
+          "time": "15:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "15:30",
+          "destination": "Atatürk Mah. - 4. Komando Kavşağı"
+        },
+        {
+          "time": "16:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        },
+        {
+          "time": "16:30",
+          "destination": "Atatürk Mah. - Üniversite Nizamiye Kapısı - Aktuluk Mah. - TOKİ - Bardaktepe"
+        },
+        {
+          "time": "17:00",
+          "destination": "Atatürk Mah. - TOKİ"
+        }
+      ]
+    },
+
+    {
+      "id": "cumhuriyet_mahallesi",
+      "name": "Cumhuriyet Mahallesi",
+      "departurePoint": "Moğultay Mahallesi",
+      "weekday": [
+        {
+          "time": "07:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "08:00",
+          "destination": "Cumhuriyet Mah. - P.Barge - Meslek Lisesi"
+        },
+        {
+          "time": "09:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "10:00",
+          "destination": "Cumhuriyet Mah. - P.Barge - Meslek Lisesi"
+        },
+        {
+          "time": "11:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "12:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "13:00",
+          "destination": "Cumhuriyet Mah. - P.Barge - Meslek Lisesi"
+        },
+        {
+          "time": "14:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "15:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "16:15",
+          "destination": "Cumhuriyet Mah. - P.Barge - Meslek Lisesi"
+        },
+        {
+          "time": "17:00",
+          "destination": "Cumhuriyet Mah. - P.Barge - Meslek Lisesi"
+        }
+      ],
+      "weekend": [
+        {
+          "time": "08:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "09:00",
+          "destination": "Cumhuriyet Mah. - P Barge"
+        },
+        {
+          "time": "10:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "11:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "12:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "13:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "14:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "15:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "16:00",
+          "destination": "Cumhuriyet Mah."
+        },
+        {
+          "time": "17:00",
+          "destination": "Cumhuriyet Mah. - P Barge"
+        }
+      ]
+    },
+
+    {
+      "id": "inonu_kutudere",
+      "name": "İnönü Mahallesi - Kutudere",
+      "departurePoint": "Moğultay Mah.",
+      "note": "Kutudere hattı kışlık seferleri 1 Ekim'den sonra uygulanmaktadır.",
+      "weekday": [
+        {
+          "time": "07:30",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "08:15",
+          "destination": "Kutudere",
+          "days": [
+            "monday",
+            "wednesday",
+            "friday"
+          ]
+        },
+        {
+          "time": "08:15",
+          "destination": "PAH Köprüsü ve Söğütlüçeşme",
+          "days": [
+            "tuesday",
+            "thursday"
+          ]
+        },
+        {
+          "time": "10:00",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "11:00",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "12:00",
+          "destination": "Kutudere",
+          "days": [
+            "monday",
+            "wednesday",
+            "friday"
+          ]
+        },
+        {
+          "time": "12:00",
+          "destination": "PAH Köprüsü ve Söğütlüçeşme",
+          "days": [
+            "tuesday",
+            "thursday"
+          ]
+        },
+        {
+          "time": "15:00",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "15:50",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "16:30",
+          "destination": "Kutudere",
+          "days": [
+            "monday",
+            "wednesday",
+            "friday"
+          ]
+        },
+        {
+          "time": "16:30",
+          "destination": "PAH Köprüsü ve Söğütlüçeşme",
+          "days": [
+            "tuesday",
+            "thursday"
+          ]
+        },
+        {
+          "time": "17:30",
+          "destination": "TOKİ"
+        }
+      ],
+      "weekend": [
+        {
+          "time": "07:30",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "08:15",
+          "destination": "PAH Köprüsü - Söğütlüçeşme"
+        },
+        {
+          "time": "11:00",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "12:00",
+          "destination": "PAH Köprüsü - Söğütlüçeşme"
+        },
+        {
+          "time": "15:30",
+          "destination": "TOKİ"
+        },
+        {
+          "time": "16:30",
+          "destination": "PAH Köprüsü - Söğütlüçeşme"
+        }
+      ]
+    },
+
+    {
+      "id": "yeni_mahalle",
+      "name": "Yeni Mahalle",
+      "departurePoint": "Moğultay Mahallesi",
+      "weekday": [
+        {
+          "time": "07:40",
+          "destination": "Yeni Mahalle"
+        },
+        {
+          "time": "12:30",
+          "destination": "Yeni Mahalle"
+        },
+        {
+          "time": "15:00",
+          "destination": "Yeni Mahalle",
+          "note": "Sadece okul sezonu"
+        },
+        {
+          "time": "15:50",
+          "destination": "Yeni Mahalle"
+        },
+        {
+          "time": "17:05",
+          "destination": "Yeni Mahalle"
+        }
+      ],
+      "weekend": [
+        {
+          "time": "08:00",
+          "destination": "Yeni Mahalle"
+        },
+        {
+          "time": "12:30",
+          "destination": "Yeni Mahalle"
+        },
+        {
+          "time": "16:00",
+          "destination": "Yeni Mahalle"
+        }
+      ]
+    },
+
+    {
+      "id": "esentepe_mahallesi",
+      "name": "Esentepe Mahallesi",
+      "departurePoint": "Moğultay Mahallesi",
+      "weekday": [
+        {
+          "time": "08:00",
+          "destination": "Esentepe"
+        },
+        {
+          "time": "12:00",
+          "destination": "Esentepe"
+        },
+        {
+          "time": "17:30",
+          "destination": "Esentepe"
+        }
+      ],
+      "weekend": [
+        {
+          "time": "08:30",
+          "destination": "Esentepe"
+        },
+        {
+          "time": "12:00",
+          "destination": "Esentepe"
+        },
+        {
+          "time": "15:30",
+          "destination": "Esentepe"
+        }
+      ]
+    },
+
+    {
+      "id": "alibaba_mahallesi",
+      "name": "Alibaba Mahallesi",
+      "departurePoint": "Moğultay Mahallesi",
+      "weekday": [
+        {
+          "time": "07:30",
+          "destination": "Alibaba"
+        },
+        {
+          "time": "08:00",
+          "destination": "Alibaba"
+        },
+        {
+          "time": "12:30",
+          "destination": "Alibaba"
+        },
+        {
+          "time": "15:00",
+          "destination": "Alibaba"
+        },
+        {
+          "time": "15:45",
+          "destination": "Alibaba"
+        },
+        {
+          "time": "16:05",
+          "destination": "Alibaba"
+        }
+      ],
+      "weekend": []
+    }
+  ]
+}

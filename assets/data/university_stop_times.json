@@ -1,0 +1,460 @@
+{
+  "routeId": "ataturk_universite_aktuluk",
+  "title": "Üniversite Hattı Durak Geçiş Saatleri",
+  "description": "Çarşı çıkışlı Üniversite seferleri için durak geçiş bilgileri.",
+  "commonStops": [
+    "Çarşı",
+    "SGK",
+    "Esnaf Sanatkarlar Durağı",
+    "Kültür Müdürlüğü",
+    "Üniversite"
+  ],
+  "trips": [
+    {
+      "departure": "07:00",
+      "dataType": "official",
+      "destination": "Aktuluk-TOKİ",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "07:00",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "07:05",
+          "estimated": false
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "07:10",
+          "estimated": false
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "07:15",
+          "estimated": false
+        },
+        {
+          "name": "Üniversite",
+          "time": "07:25",
+          "estimated": false
+        },
+        {
+          "name": "Aktuluk-TOKİ",
+          "time": "07:35",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "departure": "07:15",
+      "dataType": "official",
+      "destination": "Çiçekli Yol Ayrımı",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "07:15",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "07:20",
+          "estimated": false
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "07:25",
+          "estimated": false
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "07:30",
+          "estimated": false
+        },
+        {
+          "name": "Üniversite",
+          "time": "07:45",
+          "estimated": false
+        },
+        {
+          "name": "Çiçekli Yol Ayrımı",
+          "time": "07:50",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "departure": "07:30",
+      "dataType": "official",
+      "destination": "Çiçekli Yol Ayrımı",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "07:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "07:35",
+          "estimated": false
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "07:40",
+          "estimated": false
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "07:45",
+          "estimated": false
+        },
+        {
+          "name": "Üniversite",
+          "time": "07:55",
+          "estimated": false
+        },
+        {
+          "name": "Çiçekli Yol Ayrımı",
+          "time": "08:05",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "departure": "08:30",
+      "dataType": "official",
+      "destination": "Çiçekli Yol Ayrımı",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "08:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "08:35",
+          "estimated": false
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "08:40",
+          "estimated": false
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "08:45",
+          "estimated": false
+        },
+        {
+          "name": "Üniversite",
+          "time": "09:00",
+          "estimated": false
+        },
+        {
+          "name": "Çiçekli Yol Ayrımı",
+          "time": "09:05",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "departure": "09:15",
+      "dataType": "official",
+      "destination": "100. Yıl Yurdu",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "09:15",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "09:20",
+          "estimated": false
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "09:25",
+          "estimated": false
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "09:30",
+          "estimated": false
+        },
+        {
+          "name": "Üniversite",
+          "time": "09:45",
+          "estimated": false
+        },
+        {
+          "name": "Çiçekli Yol Ayrımı",
+          "time": "09:50",
+          "estimated": false
+        },
+        {
+          "name": "100. Yıl Yurdu",
+          "time": "09:55",
+          "estimated": false
+        }
+      ]
+    },
+    {
+      "departure": "09:30",
+      "dataType": "estimated",
+      "destination": "100. Yıl Yurdu",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "09:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "09:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "09:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "09:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "10:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "10:30",
+      "dataType": "estimated",
+      "destination": "Bardaktepe",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "10:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "10:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "10:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "10:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "11:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "11:30",
+      "dataType": "estimated",
+      "destination": "TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "11:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "11:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "11:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "11:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "12:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "13:30",
+      "dataType": "estimated",
+      "destination": "TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "13:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "13:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "13:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "13:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "14:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "14:30",
+      "dataType": "estimated",
+      "destination": "Çiçekli Yol Ayrımı",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "14:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "14:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "14:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "14:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "15:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "15:30",
+      "dataType": "estimated",
+      "destination": "TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "15:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "15:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "15:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "15:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "16:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "16:30",
+      "dataType": "estimated",
+      "destination": "Bardaktepe",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "16:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "16:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "16:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "16:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "17:00",
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "departure": "17:30",
+      "dataType": "estimated",
+      "destination": "TOKİ Lojmanları - 100. Yıl Kız Öğrenci Yurdu",
+      "stops": [
+        {
+          "name": "Çarşı",
+          "time": "17:30",
+          "estimated": false
+        },
+        {
+          "name": "SGK",
+          "time": "17:35",
+          "estimated": true
+        },
+        {
+          "name": "Esnaf Sanatkarlar Durağı",
+          "time": "17:40",
+          "estimated": true
+        },
+        {
+          "name": "Kültür Müdürlüğü",
+          "time": "17:45",
+          "estimated": true
+        },
+        {
+          "name": "Üniversite",
+          "time": "18:00",
+          "estimated": true
+        }
+      ]
+    }
+  ]
+}

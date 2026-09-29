@@ -1,0 +1,494 @@
+{
+  "version": 2,
+  "source": "DURAKLAR_GÜZERGAH VE İSİMLER.kml",
+  "dataType": "official",
+  "stopCount": 81,
+  "stops": [
+    {
+      "id": "stop_001",
+      "name": "YENİ MAH DURAK-1",
+      "latitude": 39.11285147439727,
+      "longitude": 39.55120573720091
+    },
+    {
+      "id": "stop_002",
+      "name": "YENİ MAH DURAK-2",
+      "latitude": 39.11512525191371,
+      "longitude": 39.55014933077485
+    },
+    {
+      "id": "stop_003",
+      "name": "ESENTEPE DURAK-1",
+      "latitude": 39.10624269862789,
+      "longitude": 39.55351968196535
+    },
+    {
+      "id": "stop_004",
+      "name": "ESENTEPE DURAK-2",
+      "latitude": 39.10587296395762,
+      "longitude": 39.55606605972192
+    },
+    {
+      "id": "stop_005",
+      "name": "ESENTEPE DURAK-3",
+      "latitude": 39.11009459247692,
+      "longitude": 39.55718178980041
+    },
+    {
+      "id": "stop_006",
+      "name": "AİLE DURAĞI-1",
+      "latitude": 39.10495261775087,
+      "longitude": 39.55148334674682
+    },
+    {
+      "id": "stop_007",
+      "name": "AFAD DURAĞI",
+      "latitude": 39.10249915244379,
+      "longitude": 39.5371340077722
+    },
+    {
+      "id": "stop_008",
+      "name": "CUMHURİYET MAH DURAK-2",
+      "latitude": 39.10336506178992,
+      "longitude": 39.53432752279738
+    },
+    {
+      "id": "stop_009",
+      "name": "CUMHURİYET MAH DURAK-3",
+      "latitude": 39.10442062545579,
+      "longitude": 39.5348559695277
+    },
+    {
+      "id": "stop_010",
+      "name": "CUMHURİYET MAH DURAK-4",
+      "latitude": 39.10430492419075,
+      "longitude": 39.53301919237735
+    },
+    {
+      "id": "stop_011",
+      "name": "CUMHURİYET MAH. DURAK-5",
+      "latitude": 39.10360365702827,
+      "longitude": 39.52940282566755
+    },
+    {
+      "id": "stop_012",
+      "name": "ÇAVUŞ TEPE DURAĞI",
+      "latitude": 39.10645495072263,
+      "longitude": 39.52929187038946
+    },
+    {
+      "id": "stop_013",
+      "name": "DİYAP AĞA DURAĞI",
+      "latitude": 39.10699743043028,
+      "longitude": 39.53483599973556
+    },
+    {
+      "id": "stop_014",
+      "name": "KAYABAŞI DURAĞI",
+      "latitude": 39.10871347653866,
+      "longitude": 39.53711705420509
+    },
+    {
+      "id": "stop_015",
+      "name": "SPOR LİSESİ DURAĞI",
+      "latitude": 39.1097889853271,
+      "longitude": 39.53426331512009
+    },
+    {
+      "id": "stop_016",
+      "name": "CUMHURİYET MAH DURAK-1",
+      "latitude": 39.10384809985865,
+      "longitude": 39.53911175764645
+    },
+    {
+      "id": "stop_017",
+      "name": "ORMAN İŞLETME DURAĞI",
+      "latitude": 39.10092841305887,
+      "longitude": 39.54719667104592
+    },
+    {
+      "id": "stop_018",
+      "name": "Atatürk Mah",
+      "latitude": 39.08529079737163,
+      "longitude": 39.53853078254818
+    },
+    {
+      "id": "stop_019",
+      "name": "ATATÜRK MAH TOKİ-1 DURAĞI",
+      "latitude": 39.07414187671487,
+      "longitude": 39.52663639308642
+    },
+    {
+      "id": "stop_020",
+      "name": "ATATÜRK MAH TOKİ-2 DURAĞI",
+      "latitude": 39.07628695625664,
+      "longitude": 39.52625316938912
+    },
+    {
+      "id": "stop_021",
+      "name": "YAŞAMKENT DURAĞI",
+      "latitude": 39.06833595619631,
+      "longitude": 39.52232307707737
+    },
+    {
+      "id": "stop_022",
+      "name": "ROSTAN-2",
+      "latitude": 39.05518891448036,
+      "longitude": 39.51798819231639
+    },
+    {
+      "id": "stop_023",
+      "name": "AKTULUK-1",
+      "latitude": 39.04118416133969,
+      "longitude": 39.51198407893331
+    },
+    {
+      "id": "stop_024",
+      "name": "ÇİÇEKLİ YOL AYRIMI DURAĞI",
+      "latitude": 39.03727132536417,
+      "longitude": 39.5021440124936
+    },
+    {
+      "id": "stop_025",
+      "name": "AKTULUK TOKİ-1 DURAĞI",
+      "latitude": 39.0443438854455,
+      "longitude": 39.50037487833414
+    },
+    {
+      "id": "stop_026",
+      "name": "AKTULUK-3",
+      "latitude": 39.02863574849049,
+      "longitude": 39.49558342640729
+    },
+    {
+      "id": "stop_027",
+      "name": "BARDAKLI TEPE DURAĞI",
+      "latitude": 39.01859114358042,
+      "longitude": 39.49753127433328
+    },
+    {
+      "id": "stop_028",
+      "name": "AKTULUK-4",
+      "latitude": 39.0234665345188,
+      "longitude": 39.49814533908769
+    },
+    {
+      "id": "stop_029",
+      "name": "AKTULUK-2",
+      "latitude": 39.04000632842253,
+      "longitude": 39.51064049304355
+    },
+    {
+      "id": "stop_030",
+      "name": "COCA COLA BAYİİ DURAĞI",
+      "latitude": 39.04653200808299,
+      "longitude": 39.5241023888169
+    },
+    {
+      "id": "stop_031",
+      "name": "ROSTAN-1",
+      "latitude": 39.05600513112987,
+      "longitude": 39.51747110774756
+    },
+    {
+      "id": "stop_032",
+      "name": "4 KOMANDO DURAĞI",
+      "latitude": 39.06594537600822,
+      "longitude": 39.51988075384702
+    },
+    {
+      "id": "stop_033",
+      "name": "YAŞAM KENT DURAĞI",
+      "latitude": 39.06833754813336,
+      "longitude": 39.52287126493538
+    },
+    {
+      "id": "stop_034",
+      "name": "TEDAŞ DURAĞI",
+      "latitude": 39.06938666621823,
+      "longitude": 39.5296472169013
+    },
+    {
+      "id": "stop_035",
+      "name": "HASTANE DURAĞI",
+      "latitude": 39.09165979885123,
+      "longitude": 39.53619415714256
+    },
+    {
+      "id": "stop_036",
+      "name": "KANOĞLU DURAĞI",
+      "latitude": 39.09880470310674,
+      "longitude": 39.53776321530832
+    },
+    {
+      "id": "stop_037",
+      "name": "KIZILAY DURAĞI",
+      "latitude": 39.10064791024751,
+      "longitude": 39.54839027823289
+    },
+    {
+      "id": "stop_038",
+      "name": "İNÖNÜ MAH DURAK-1",
+      "latitude": 39.10644153950308,
+      "longitude": 39.57052611823534
+    },
+    {
+      "id": "stop_039",
+      "name": "İNÖNÜ MAH DURAK-2",
+      "latitude": 39.10390342510757,
+      "longitude": 39.57787890140522
+    },
+    {
+      "id": "stop_040",
+      "name": "PAGALİ DURAĞI-2",
+      "latitude": 39.14937839320921,
+      "longitude": 39.65288293405757
+    },
+    {
+      "id": "stop_041",
+      "name": "KUTUDERE DURAĞI",
+      "latitude": 39.19094959697834,
+      "longitude": 39.6910640345718
+    },
+    {
+      "id": "stop_042",
+      "name": "SÖĞÜTLÜ ÇEŞME DURAĞI",
+      "latitude": 39.15922882160185,
+      "longitude": 39.66512307064401
+    },
+    {
+      "id": "stop_043",
+      "name": "PAGALİ DURAĞI-1",
+      "latitude": 39.14708573741794,
+      "longitude": 39.65049442485192
+    },
+    {
+      "id": "stop_044",
+      "name": "MARÇİK DURAĞI-3",
+      "latitude": 39.13834339004814,
+      "longitude": 39.63554326692051
+    },
+    {
+      "id": "stop_045",
+      "name": "MARÇİK DURAĞI-2",
+      "latitude": 39.13578308421959,
+      "longitude": 39.63346624763593
+    },
+    {
+      "id": "stop_046",
+      "name": "MARÇİK DURAĞI-1",
+      "latitude": 39.13129807344739,
+      "longitude": 39.62972640908169
+    },
+    {
+      "id": "stop_047",
+      "name": "PAH KÖPRÜSÜ DURAĞI",
+      "latitude": 39.10637038794108,
+      "longitude": 39.61293276867298
+    },
+    {
+      "id": "stop_048",
+      "name": "İNÖNÜ MAH TOKİ-1 DURAĞI",
+      "latitude": 39.10386175191265,
+      "longitude": 39.60248219435765
+    },
+    {
+      "id": "stop_049",
+      "name": "İNÖNÜ MAH TOKİ-2 DURAĞI",
+      "latitude": 39.10640304515675,
+      "longitude": 39.60292472304666
+    },
+    {
+      "id": "stop_050",
+      "name": "İNÖNÜ MAH TOKİ-3 DURAĞI",
+      "latitude": 39.10781767855333,
+      "longitude": 39.59194456902345
+    },
+    {
+      "id": "stop_051",
+      "name": "OSB DURAĞI",
+      "latitude": 39.10802265640668,
+      "longitude": 39.59931556588737
+    },
+    {
+      "id": "stop_052",
+      "name": "İNÖNÜ MAH DURAK-5",
+      "latitude": 39.10107202424508,
+      "longitude": 39.59789338865939
+    },
+    {
+      "id": "stop_053",
+      "name": "İNÖNÜ MAH DURAK-4",
+      "latitude": 39.10256825709209,
+      "longitude": 39.58902122047942
+    },
+    {
+      "id": "stop_054",
+      "name": "İNÖNÜ MAH DURAK-3",
+      "latitude": 39.10325661527822,
+      "longitude": 39.58203773859003
+    },
+    {
+      "id": "stop_055",
+      "name": "SİNAN KÖYÜ DURAĞI",
+      "latitude": 39.11805068598606,
+      "longitude": 39.6225078528941
+    },
+    {
+      "id": "stop_056",
+      "name": "ELMA PASTANESİ",
+      "latitude": 39.10623693408031,
+      "longitude": 39.54749452134902
+    },
+    {
+      "id": "stop_057",
+      "name": "MAMEKİ KÖPRÜ DURAĞI",
+      "latitude": 39.10304892817986,
+      "longitude": 39.5521984340583
+    },
+    {
+      "id": "stop_058",
+      "name": "KANOĞLU DURAĞI",
+      "latitude": 39.09868867108192,
+      "longitude": 39.537134142157
+    },
+    {
+      "id": "stop_059",
+      "name": "HASTANE DURAĞI",
+      "latitude": 39.09147173524795,
+      "longitude": 39.53575731009784
+    },
+    {
+      "id": "stop_060",
+      "name": "TİMAŞ DURAĞI",
+      "latitude": 39.08966300871285,
+      "longitude": 39.53702403308079
+    },
+    {
+      "id": "stop_061",
+      "name": "SGK DURAĞI",
+      "latitude": 39.08529079737163,
+      "longitude": 39.53853078254818
+    },
+    {
+      "id": "stop_062",
+      "name": "SGK DURAĞI",
+      "latitude": 39.08540468823245,
+      "longitude": 39.5388478029973
+    },
+    {
+      "id": "stop_063",
+      "name": "İSTİKBAL DURAĞI",
+      "latitude": 39.08096453588136,
+      "longitude": 39.53742212431182
+    },
+    {
+      "id": "stop_064",
+      "name": "ESNAF SANATKARLAR DURAĞI",
+      "latitude": 39.07959386335525,
+      "longitude": 39.53633817968435
+    },
+    {
+      "id": "stop_065",
+      "name": "KETEM DURAĞI",
+      "latitude": 39.07984077413723,
+      "longitude": 39.53695311517414
+    },
+    {
+      "id": "stop_066",
+      "name": "STADYUM DURAĞI",
+      "latitude": 39.07700655007339,
+      "longitude": 39.5349276211894
+    },
+    {
+      "id": "stop_067",
+      "name": "DSİ DURAĞI",
+      "latitude": 39.07575659513729,
+      "longitude": 39.53373093742518
+    },
+    {
+      "id": "stop_068",
+      "name": "VALİLİK DURAĞI",
+      "latitude": 39.07581047430198,
+      "longitude": 39.53412084411967
+    },
+    {
+      "id": "stop_069",
+      "name": "KÜLTÜR MERKEZİ DURAĞI",
+      "latitude": 39.07226144859197,
+      "longitude": 39.53136162981878
+    },
+    {
+      "id": "stop_070",
+      "name": "PAZAR DURAĞI",
+      "latitude": 39.07178799975747,
+      "longitude": 39.53131386257351
+    },
+    {
+      "id": "stop_071",
+      "name": "ÜNİVERSİTE NİZAMİYE KAPISI",
+      "latitude": 39.04320761833036,
+      "longitude": 39.51587069391393
+    },
+    {
+      "id": "stop_072",
+      "name": "REKTÖRLÜK DURAĞI",
+      "latitude": 39.04592138678603,
+      "longitude": 39.51698179143997
+    },
+    {
+      "id": "stop_073",
+      "name": "KAMPÜS DURAĞI",
+      "latitude": 39.0446786214204,
+      "longitude": 39.51541003955211
+    },
+    {
+      "id": "stop_074",
+      "name": "MÜHENDİSLİK FAKÜLTESİ DURAĞI",
+      "latitude": 39.04364243930202,
+      "longitude": 39.51135117028752
+    },
+    {
+      "id": "stop_075",
+      "name": "100. YIL YURDU DURAĞI",
+      "latitude": 39.04517231983521,
+      "longitude": 39.4972071913966
+    },
+    {
+      "id": "stop_076",
+      "name": "MESLEK LİSESİ DURAĞI",
+      "latitude": 39.09376141883353,
+      "longitude": 39.52369424559906
+    },
+    {
+      "id": "stop_077",
+      "name": "HAVUZ DURAĞI",
+      "latitude": 39.09717444413489,
+      "longitude": 39.52429365588988
+    },
+    {
+      "id": "stop_078",
+      "name": "POLİS EVİ DURAĞI",
+      "latitude": 39.10316430137381,
+      "longitude": 39.54170680006852
+    },
+    {
+      "id": "stop_079",
+      "name": "CEM EVİ DURAĞI",
+      "latitude": 39.10191650074129,
+      "longitude": 39.55657627636925
+    },
+    {
+      "id": "stop_080",
+      "name": "YENİ MAH DURAK-3",
+      "latitude": 39.11518125869193,
+      "longitude": 39.55354803509461
+    },
+    {
+      "id": "stop_081",
+      "name": "YENİ MAH DURAK-4",
+      "latitude": 39.11751255564059,
+      "longitude": 39.54778008251667
+    }
+  ]
+}
